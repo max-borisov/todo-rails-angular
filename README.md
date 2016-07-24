@@ -1,11 +1,12 @@
-Simple ToDo lists with AngularJs
+Todo app build with AngularJS 1
 ===
 
 ## [Demo on heroku](https://rails-angular-todo.herokuapp.com/)
 
 ## Description
-Simple to-do lists app based on Rails framework. 
-It's a demo so it does not have a registration section.
+Rails framework is used for the backend. 
+
+It's a demo app so it does not have a registration section.
 
 ### Functionality
 * Create/delete/rename projects
